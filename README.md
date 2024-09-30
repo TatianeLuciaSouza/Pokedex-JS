@@ -12,5 +12,5 @@
 Projeto do curso da DIO já com os desafios inclusos.
 Exibe todos os pokemons e suas descrições.
 
-Projeto de desenvolvimento de uma Pokédex proposto pelo Bootcamp da Digital Innovation One - DIO sobre Desenvolvimento Frontend com Angular.
+Projeto de desenvolvimento de uma Pokédex proposto pelo Bootcamp da Digital Innovation One - DIO sobre Desenvolvimento Frontend com javascript.
 Trata-se de uma aplicação que utiliza a PokeApi para apresentar detalhes de Pokémons da Primeira Geração
